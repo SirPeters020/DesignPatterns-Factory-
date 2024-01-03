@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Documentos\Portifolio\Projetos\DesignPatterns-Factory\DesignPatterns.Factory\bin\Debug\net8.0\DesignPatterns.Factory.exe
+C:\Users\pedro\OneDrive\Documentos\Portifolio\Projetos\DesignPatterns-Factory\DesignPatterns.Factory\bin\Debug\net8.0\DesignPatterns.Factory.deps.json
+C:\Users\pedro\OneDrive\Documentos\Portifolio\Projetos\DesignPatterns-Factory\DesignPatterns.Factory\bin\Debug\net8.0\DesignPatterns.Factory.runtimeconfig.json
+C:\Users\pedro\OneDrive\Documentos\Portifolio\Projetos\DesignPatterns-Factory\DesignPatterns.Factory\bin\Debug\net8.0\DesignPatterns.Factory.dll
+C:\Users\pedro\OneDrive\Documentos\Portifolio\Projetos\DesignPatterns-Factory\DesignPatterns.Factory\bin\Debug\net8.0\DesignPatterns.Factory.pdb
+C:\Users\pedro\OneDrive\Documentos\Portifolio\Projetos\DesignPatterns-Factory\DesignPatterns.Factory\obj\Debug\net8.0\DesignPatterns.Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Documentos\Portifolio\Projetos\DesignPatterns-Factory\DesignPatterns.Factory\obj\Debug\net8.0\DesignPatterns.Factory.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Portifolio\Projetos\DesignPatterns-Factory\DesignPatterns.Factory\obj\Debug\net8.0\DesignPatterns.Factory.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Documentos\Portifolio\Projetos\DesignPatterns-Factory\DesignPatterns.Factory\obj\Debug\net8.0\DesignPatterns.Factory.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Portifolio\Projetos\DesignPatterns-Factory\DesignPatterns.Factory\obj\Debug\net8.0\DesignPatterns.Factory.sourcelink.json
+C:\Users\pedro\OneDrive\Documentos\Portifolio\Projetos\DesignPatterns-Factory\DesignPatterns.Factory\obj\Debug\net8.0\DesignPatterns.Factory.dll
+C:\Users\pedro\OneDrive\Documentos\Portifolio\Projetos\DesignPatterns-Factory\DesignPatterns.Factory\obj\Debug\net8.0\refint\DesignPatterns.Factory.dll
+C:\Users\pedro\OneDrive\Documentos\Portifolio\Projetos\DesignPatterns-Factory\DesignPatterns.Factory\obj\Debug\net8.0\DesignPatterns.Factory.pdb
+C:\Users\pedro\OneDrive\Documentos\Portifolio\Projetos\DesignPatterns-Factory\DesignPatterns.Factory\obj\Debug\net8.0\DesignPatterns.Factory.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Documentos\Portifolio\Projetos\DesignPatterns-Factory\DesignPatterns.Factory\obj\Debug\net8.0\ref\DesignPatterns.Factory.dll

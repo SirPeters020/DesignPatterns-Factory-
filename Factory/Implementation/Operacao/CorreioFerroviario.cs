@@ -4,10 +4,10 @@ using DesignPatterns.Factory.Factory.Interfaces.Operacao;
 
 namespace DesignPatterns.Factory.Factory.Implementation.Operacao;
 
-public class CorreioAerio : ICorreio
+public class CorreioFerroviario : ICorreio
 {
     public override ITransporte FactoryMethod()
     {
-        return new Aviao();
+        return new Trem();
     }
 }

@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using DesignPatterns.Factory.Factory.Implementation.Model;
+using DesignPatterns.Factory.Factory.Interfaces.Model;
+using DesignPatterns.Factory.Factory.Interfaces.Operacao;
 
-namespace DesignPatterns.Factory.Factory.Implementation.Operacao
+namespace DesignPatterns.Factory.Factory.Implementation.Operacao;
+
+public class CorreioTerreste : ICorreio
 {
-    internal class CorreioTerreste
+    public override ITransporte FactoryMethod()
     {
+        return new Caminhao();
     }
 }
